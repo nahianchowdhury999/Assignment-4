@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
           decoration: BoxDecoration(
             image: DecorationImage(
               image: AssetImage('assets/images/win.png'),
-              fit: BoxFit.cover, // 🔥 fills full screen
+              fit: BoxFit.cover, 
             ),
           ),
           child: Center(
